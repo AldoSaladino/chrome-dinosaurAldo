@@ -1,0 +1,5 @@
+Come prima cosa ho eseguito l'accesso a github,poi ho fatto la fork del file del prof per averlo sul mio account.
+In seguito ho creato una cartella di nome pJr in cui ho eseguito la clone del file.
+Poi ho modificato il file main.c aggiungendo un commento e con il comando add l'ho aggiunto.
+Ho utilizzato il comando commit -m per modificare il commento di aggiornamento.
+Infine con il comando push ho salvato e inviato le modifiche.
